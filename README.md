@@ -1,22 +1,41 @@
-<h1 align="center">Hi 👋, I'm Ridwa mohamed rshiid</h1>
-<h3 align="center">A passionate Full stuck developer</h3>
+<h1 align="center">Hi there, I'm Rashiid 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwa-rashid&label=Profile%20views&color=0e75b6&style=flat" alt="ridwa-rashid" /> </p>
-
-- 🔭 I’m currently working on **dashboard**
-
-- 🌱 I’m currently learning **html**
-
-- 💬 Ask me about **html css**
-
-- 📫 How to reach me **ridwaanm443@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ridwa_arts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridwa_arts" height="30" width="40" /></a>
+<p align="center">
+🚀 Frontend Developer | 💻 JavaScript Lover | 🌐 Web Designer
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridwa-rashid&show_icons=true&locale=en&layout=compact" alt="ridwa-rashid" /></p>
+### 👨‍💻 About Me
+- 🔭 I’m currently learning React & Tailwind CSS
+- 🌱 I’m improving my JavaScript & UI/UX skills
+- 👯 I want to collaborate on Frontend Projects
+- 📫 How to reach me:ridwaanm443@gmail.com
+- ⚡ Fun fact: “Code talks louder than words.”
+
+---
+
+### 🛠 Languages & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,tailwind" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rashiid5&show_icons=true&theme=radical" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashiid5&layout=compact&theme=radical" height="165" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Rashiid5&theme=highcontrast" />
+</p>
+
+
+---
+
+⭐ Thanks for visiting my profile!
