@@ -35,7 +35,3 @@
 <img src="https://streak-stats.demolab.com?user=Rashiid5&theme=highcontrast" />
 </p>
 
-
----
-
-⭐ Thanks for visiting my profile!
